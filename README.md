@@ -5,8 +5,8 @@
 <h1 align="center">petershaan.net, version 1</h1>
 
 <p align="center">
-  The first version of the personal portfolio and blog of <a href="https://github.com/petershaan12">Peter Shaan</a>, built with Next.js and Tailwind CSS.<br />
-  This is an archived version. The live site is <a href="https://petershaan.net">petershaan.net</a>, and all versions are listed in the <a href="https://github.com/petershaan12/petershaan.net/tree/version-3"><code>version-3</code></a> branch.
+  The first version of the personal portfolio and blog of <a href="https://github.com/kerenkok10">Peter Shaan</a>, built with Next.js and Tailwind CSS.<br />
+  This is an archived version. The live site is <a href="https://petershaan.net">petershaan.net</a>, and all versions are listed in the <a href="https://github.com/kerenkok10/petershaan.net/tree/version-3"><code>version-3</code></a> branch.
 </p>
 
 ## Screenshot
@@ -28,7 +28,7 @@ The design is inspired by [fahreziadha.com](https://fahreziadha.com), but the co
 Requirements: Node.js 18+.
 
 ```bash
-git clone -b version-1 https://github.com/petershaan12/petershaan.net.git
+git clone -b version-1 https://github.com/kerenkok10/petershaan.net.git
 cd petershaan.net
 npm install
 npm run dev

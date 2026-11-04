@@ -5,7 +5,7 @@
 <h1 align="center">petershaan.net</h1>
 
 <p align="center">
-  Personal portfolio and blog of <a href="https://github.com/petershaan12">Peter Shaan</a>.<br />
+  Personal portfolio and blog of <a href="https://github.com/kerenkok10">Peter Shaan</a>.<br />
   Live at <a href="https://petershaan.net">petershaan.net</a>
 </p>
 
@@ -16,9 +16,9 @@ This repo is the public archive of every version of my website. Each version liv
 | Version | Branch | Stack | Preview |
 | --- | --- | --- | --- |
 | 4 (live) | closed source | Next.js 16, React 19, Tailwind v4, MongoDB | <img src="docs/screenshots/v4-home.png" width="280" /> |
-| 3 | [`version-3`](https://github.com/petershaan12/petershaan.net/tree/version-3) (this branch) | Next.js 16, React 19, Tailwind v4, MongoDB | <img src="docs/screenshots/home.png" width="280" /> |
-| 2 | [`version-2-remix`](https://github.com/petershaan12/petershaan.net/tree/version-2-remix) | Remix, Vite, Tailwind, MDX, MongoDB | <img src="https://raw.githubusercontent.com/petershaan12/petershaan.net/version-2-remix/docs/screenshots/home.png" width="280" /> |
-| 1 | [`version-1`](https://github.com/petershaan12/petershaan.net/tree/version-1) | Next.js 14, JavaScript, Tailwind | <img src="https://raw.githubusercontent.com/petershaan12/petershaan.net/version-1/docs/screenshots/home.png" width="280" /> |
+| 3 | [`version-3`](https://github.com/kerenkok10/petershaan.net/tree/version-3) (this branch) | Next.js 16, React 19, Tailwind v4, MongoDB | <img src="docs/screenshots/home.png" width="280" /> |
+| 2 | [`version-2-remix`](https://github.com/kerenkok10/petershaan.net/tree/version-2-remix) | Remix, Vite, Tailwind, MDX, MongoDB | <img src="https://raw.githubusercontent.com/kerenkok10/petershaan.net/version-2-remix/docs/screenshots/home.png" width="280" /> |
+| 1 | [`version-1`](https://github.com/kerenkok10/petershaan.net/tree/version-1) | Next.js 14, JavaScript, Tailwind | <img src="https://raw.githubusercontent.com/kerenkok10/petershaan.net/version-1/docs/screenshots/home.png" width="280" /> |
 
 ## Version 3
 
@@ -50,7 +50,7 @@ This repo is the public archive of every version of my website. Each version liv
 Requirements: Node.js 20+ and a MongoDB database (a free [MongoDB Atlas](https://www.mongodb.com/atlas) cluster works).
 
 ```bash
-git clone -b version-3 https://github.com/petershaan12/petershaan.net.git
+git clone -b version-3 https://github.com/kerenkok10/petershaan.net.git
 cd petershaan.net
 npm install
 cp .example.env .env.local

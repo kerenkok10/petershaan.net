@@ -19,7 +19,7 @@ export default function BlogComments({ slug }: BlogCommentsProps) {
         script.src = "https://giscus.app/client.js";
         script.async = true;
         script.crossOrigin = "anonymous";
-        script.setAttribute("data-repo", "petershaan12/petershaan.net");
+        script.setAttribute("data-repo", "kerenkok10/petershaan.net");
         script.setAttribute("data-repo-id", "R_kgDOL82pnw");
         script.setAttribute("data-category", "Q&A");
         script.setAttribute("data-category-id", "DIC_kwDOL82pn84C0K7g");

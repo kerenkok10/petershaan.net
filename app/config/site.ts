@@ -7,7 +7,7 @@ export const siteConfig = {
     youtube: "https://www.youtube.com/@petershaan_",
     instagram: "https://www.instagram.com/petershaan_",
     linkedin: "https://www.linkedin.com/in/peter-shaan-b59a111a6/",
-    github: "https://github.com/petershaan12",
+    github: "https://github.com/kerenkok10",
   },
 };
 

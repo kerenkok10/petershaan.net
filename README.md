@@ -5,8 +5,8 @@
 <h1 align="center">petershaan.net, version 2</h1>
 
 <p align="center">
-  Personal portfolio and blog of <a href="https://github.com/petershaan12">Peter Shaan</a>, rebuilt with <a href="https://remix.run">Remix</a>.<br />
-  This is an archived version. The live site is <a href="https://petershaan.net">petershaan.net</a>, and all versions are listed in the <a href="https://github.com/petershaan12/petershaan.net/tree/version-3"><code>version-3</code></a> branch.
+  Personal portfolio and blog of <a href="https://github.com/kerenkok10">Peter Shaan</a>, rebuilt with <a href="https://remix.run">Remix</a>.<br />
+  This is an archived version. The live site is <a href="https://petershaan.net">petershaan.net</a>, and all versions are listed in the <a href="https://github.com/kerenkok10/petershaan.net/tree/version-3"><code>version-3</code></a> branch.
 </p>
 
 ## Screenshots
@@ -36,7 +36,7 @@ The design is inspired by [luma.com](https://luma.com) and [leerob.io](https://l
 Requirements: Node.js 20+ and a MongoDB database (a free [MongoDB Atlas](https://www.mongodb.com/atlas) cluster works).
 
 ```bash
-git clone -b version-2-remix https://github.com/petershaan12/petershaan.net.git
+git clone -b version-2-remix https://github.com/kerenkok10/petershaan.net.git
 cd petershaan.net
 npm install
 cp .env.example .env

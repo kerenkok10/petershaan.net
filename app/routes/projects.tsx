@@ -106,7 +106,7 @@ export default function project() {
                     title="GAPA Tetris"
                     tags={["Java FX", "Scene Builder"]}
                     year="2023"
-                    url="https://github.com/petershaan12/GAPA-Tetris?tab=readme-ov-file"
+                    url="https://github.com/kerenkok10/GAPA-Tetris?tab=readme-ov-file"
                 />
 
                 <ProjectsItem
@@ -114,7 +114,7 @@ export default function project() {
                     title="The Wild Oasis"
                     tags={["React JS", "Supabase", "Styled Component"]}
                     year="2023"
-                    url="https://github.com/petershaan12/the-wild-oasis"
+                    url="https://github.com/kerenkok10/the-wild-oasis"
                 />
 
                 <ProjectsItem
@@ -122,7 +122,7 @@ export default function project() {
                     title="The Fast React Pizza"
                     tags={["React Router", "Tailwind CSS"]}
                     year="2023"
-                    url="https://github.com/petershaan12/the-fast-react-pizza"
+                    url="https://github.com/kerenkok10/the-fast-react-pizza"
                 />
 
                 <ProjectsItem
@@ -130,7 +130,7 @@ export default function project() {
                     title="Clonning Website Wonderful Indonesia"
                     tags={["HTML", "Bootstrap 5"]}
                     year="2023"
-                    url="https://github.com/petershaan12/Wonderful-Indonesia-Clone"
+                    url="https://github.com/kerenkok10/Wonderful-Indonesia-Clone"
                 />
 
                 <ProjectsItem
